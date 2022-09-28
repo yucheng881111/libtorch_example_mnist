@@ -3,6 +3,7 @@ https://pytorch.org/cppdocs/frontend.html
 
 ## complie:
 cmake -DCMAKE_PREFIX_PATH=/home/yucheng/Desktop/libtorch
+
 make
 
 ## run:
